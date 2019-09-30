@@ -4,13 +4,13 @@ Esse é um repositório com fins didático, e com um propósito de aprendizado p
 
 Aqui serão listados vários conceitos importantes para serem levados em consideração na hora de escolher em **qual fundo imobiliário investir**.
 
-Todo esse contéudo foi retirado de um vídeo gravado e disponibilizado no youtube, pelo canal `Jovens de Negócios`.
+Todo esse contéudo foi retirado de um vídeo gravado e disponibilizado no youtube, pelo canal [Jovens de Negócios](https://www.youtube.com/watch?v=VUwU9wt2s7w).
 
-Para obter informações detalhadas e atualizadas sobre os fundos imobiliários, basta acessar o site `founds explorer`.
+Para obter informações detalhadas e atualizadas sobre os fundos imobiliários, basta acessar o site [founds explorer](https://www.fundsexplorer.com.br/).
 
 ---
 
-## Taxa de vacância
+## 1.Taxa de vacância
 
 Capacidade não utilizada de um fundo imobiliário.
 
@@ -29,9 +29,9 @@ A baixa taxa de vacância pode também representar indiretamente, uma **boa gest
 IMPORTANTE: Analisar o histórico da taxa de vacância, e não somente a taxa atual do fundo imobiliário
 ```
 
-## Dividend Yeld
+## 2.Dividend Yeld
 
-Relação entre o que você recebe e o que você ganha.
+Relação entre o que você investe em uma cota e o que você ganha.
 
 | Investimento (R\$/cota) | Ganho (R\$/cota) | Dividend Yeld (%) |
 | ----------------------- | ---------------- | ----------------- |
@@ -47,7 +47,7 @@ Relação entre o que você recebe e o que você ganha.
 
 Isto levando em consideração que o valor do fundo **não variou** durante o ano.
 
-## P/VPA
+## 3.P/VPA
 
 - P -> Preço atual da cota
 - VPA -> Valor patrimonial por ação
@@ -63,10 +63,46 @@ Isto levando em consideração que o valor do fundo **não variou** durante o an
 - P/VPA < 1 significa uma **subvalorização** da cota em relação á sua avaliação.
 - P/VPA > 1 significa uma **supervalorização** da cota em relação á sua avaliação.
 
-## Liquidez
+## 4.Liquidez
 
 Facilidade do fundo em vender cotas.
 
 Quanto **mais pessoas** negociando sobre aquele fundo, **mais fácil** será de vende-lo.
 
-## Diversificação
+## 5.Diversificação
+
+Quantos ativos imobiliários um fundo imobiliário tem.
+
+## 6.Localização
+
+Verificar se ele esta em uma área onde há **demanda** pelo serviço por ele oferecido.
+
+Ver o fundo no google maps.
+
+## 7.Renda recorrente
+
+Verificar se os valores pagos para os cotistas são consistentes.
+
+Verificar gráfico de **dividendos**. Histórico de pagamentos para os cotistas.
+
+Observar juntamente com o **dividend yeld**.
+
+## 8.Relação com os investidores
+
+Verificar como é a **comunicação** entre os gestores e os cotistas.
+
+Procurar buscar como é feita a emissão dos relatórios, se são claros e objetivos.
+
+## 9.Renda média anual real acima dos títulos públicos
+
+Verificar se o fundo históricamente rende **mais** que ativos em **renda fixa**.
+
+Pois não faz sentido investir em um fundo com **médio risco**, que renda **menos ou igual** a um investimento em renda fixa.
+
+Buscar essas informações em relatórios gerados pelos gestores do fundo.
+
+Valorização do fundo = valorização da cota + dividend yeld acumulado.
+
+## 10.Performance em relação ao IFIX
+
+IFIX -> Indice da média de performance de vários fundos imobiliários
