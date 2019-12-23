@@ -117,5 +117,7 @@ Quanto maior o ROE, melhor (apartir de 10%)
 # 7. EV/EBIT
 
 ```
-É o PREÇO DE MERCADO DA EMPRESA [(Preço de uma ação X Nº de ações emitidas) + Dívida Líquida (DB - Dinheiro em Caixa)] SOBRE seu Lucro Operacional (Lucro Antes do pagamento de juros das dívidas e impostos).
+É o PREÇO DE MERCADO DA EMPRESA [(Preço de uma ação X Nº de ações emitidas) 
+  + Dívida Líquida (DB - Dinheiro em Caixa)] 
+  SOBRE seu Lucro Operacional (Lucro Antes do pagamento de juros das dívidas e impostos).
 ```
